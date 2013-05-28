@@ -1,0 +1,5 @@
+15 may 2013 21:07:11,036 INFO  ~ Starting D:\proyectos\cdocentes
+15 may 2013 21:07:11,415 WARN  ~ You're running Play! in DEV mode
+15 may 2013 21:07:11,481 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+15 may 2013 21:07:46,911 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+15 may 2013 21:07:47,466 INFO  ~ Application 'cdocentes' is now started !
